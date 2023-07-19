@@ -2,3 +2,15 @@ h2{
     color: aqua;
     background: fuchsia;
 }
+table{
+    background: lightpink;
+    width: 100%;
+    border: 1px solid #9a9898;
+}
+tr{
+    background: #635f5f;
+    border: 1px solid #b8b4b4;
+}
+td{
+    background: #bcbaba;
+}
